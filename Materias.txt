@@ -5,3 +5,6 @@ Aplicaciones web
 Arquitectura del software
 Administracion de bases de datos
 Calculo
+redes
+IA
+Algoritmos
